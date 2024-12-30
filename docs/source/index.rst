@@ -1,15 +1,23 @@
 Indigo User Guide
 ===================================
 
-**Indigo**® and **Shaded Solutions**® are registered Trademarks of
+.. note::
+
+   This project is under active development.
+
+**Indigo** :sup:`®` and **Shaded Solutions** :sup:`®` are registered Trademarks of
 The Epic Team Pty Limited
 
 Phone: +61 2 9281 0024
-Fax: +61 2 9281 0284
-Email: indigo@shadedsolutions.com.au
-Web: [www.shadedsolutions.com.au](https://www.shadedsolutions.com.au)
 
-Indigo® is a real-time issues tracking and management system for operation centres. It is designed
+Fax: +61 2 9281 0284
+
+Email: indigo@shadedsolutions.com.au
+
+Web: `www.shadedsolutions.com.au <https://www.shadedsolutions.com.au>`
+
+
+Indigo :sup:`®` is a real-time issues tracking and management system for operation centres. It is designed
 for easy to use, open and transparent communication between people, departments and
 organisations during operations. It can be operated from anywhere on a network including remote
 locations via VPN and 4G.
@@ -36,6 +44,6 @@ Contents
 .. toctree::
 
    loggingin
-   indigoconosle
+   indigoconsole
    usage
    api
