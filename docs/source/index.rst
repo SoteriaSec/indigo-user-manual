@@ -9,12 +9,9 @@ Indigo User Guide
 The Epic Team Pty Limited
 
 Phone: +61 2 9281 0024
-
 Fax: +61 2 9281 0284
-
 Email: indigo@shadedsolutions.com.au
-
-Web: `www.shadedsolutions.com.au <https://www.shadedsolutions.com.au>`
+Web: `www.shadedsolutions.com.au <https://www.shadedsolutions.com.au>`_
 
 
 Indigo :sup:`®` is a real-time issues tracking and management system for operation centres. It is designed
@@ -34,9 +31,6 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
