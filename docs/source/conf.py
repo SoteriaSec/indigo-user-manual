@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Indigo'
+copyright = '2024, The Epic Team Pty Limited'
+author = 'SoteriaSec Pte Ltd on behalf of The Epic Team Pty Limited'
 
 release = '0.1'
 version = '0.1.0'
