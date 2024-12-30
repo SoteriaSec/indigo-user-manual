@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Indigo User Manual with Read the Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This GitHub repository is the User Manual for Indigo, owned by Shaded Solutions Technology.
